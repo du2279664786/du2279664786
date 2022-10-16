@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### 🌱 I’m currently learning
+##### 🤔 I’m currently working on ...
 
 <!--
 **du2279664786/du2279664786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=du2279664786&theme=cobalt2&show_icons=true)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=du2279664786&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2279664786)]
+-->
+## GitHub Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=du2279664786&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2279664786)]
