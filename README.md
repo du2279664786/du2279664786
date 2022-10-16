@@ -1,5 +1,8 @@
 ### Hi there 👋
 ##### 🤔 I’m currently working on ...
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/du2279664786/count.svg" />
+</p>
 
 <!--
 **du2279664786/du2279664786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
