@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=du2279664786&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=du2279664786&theme=jolly" width="700">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2279664786)]
