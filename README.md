@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=du2279664786&theme=jolly" width="700">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2279664786)]
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2279664786)]
