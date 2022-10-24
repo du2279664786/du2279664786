@@ -31,4 +31,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=du2279664786&theme=jolly" width="700">
 <!--
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=du2279664786)]
+
+# 显示荣誉奖杯
+<p>
+    <a href="https://qiufeng.blue/">
+      <img src="https://github-profile-trophy.vercel.app/?username=du2279664786&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
+    </a>
+</p>
 -->
