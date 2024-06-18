@@ -1,5 +1,5 @@
 ### Hi there , I'm Jiang Dong 👋
-##### 🤔 I’m currently working on ...
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/du2279664786/count.svg" />
 </p>
